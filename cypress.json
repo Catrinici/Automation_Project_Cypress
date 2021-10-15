@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://qa-interview.sold.com/",
+  "ignoreTestFiles": "**/examples/*"
+}
